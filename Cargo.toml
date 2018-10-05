@@ -5,6 +5,7 @@ description = "Silly command line program that flips text upside down"
 edition = "2018"
 license = "GPL-3.0"
 name = "upside-down"
+repository = "https://github.com/rmsthebest/upside-down"
 keywords = ["word-flip", "upside-down"]
 version = "0.1.0"
 
